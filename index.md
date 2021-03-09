@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/mmarie092/mmarie092.mobi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <title>Hypoallergenic Cats</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="index.mobi.css"
+   media="only screen and (min-width: 768px) and (max-width: 1024px)">
+  	
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+  <div id="wrapper">
+    <header>
+      <h1>Hypoallergenic Cats</h1>
+	    <h4>mmarie092.github.io</h4>     
+      <ul class="nav">
+    	<li><a href="https://www.facebook.com" target="_blank">Facebook</a></li>
+     	<li><a href="https://www.twitter.com" target="_blank">Twitter</a></li>
+       </ul>
+	
+      </header>
+      
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="catbreeds.html">Cat Breeds</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="contactus.html">Contact Us</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+       </ul>
+    </nav>
+    <main>
+    <br>
+    <br>
+    <img src="RegalCat.jpg" alt="Cat">
+	
+      <p>Cats are excellent pets. They are loving, cuddly, curious, creatures. But what if being anywhere near a feline makes you miserable? Sneezing, itchy eyes, and difficulty breathing can cause any cat lover to pump the breaks on bringing a furry cuddle-bug home. </p>
+       
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <h3 style="text-align:center">What Makes us Allergic to Cats?</h3>
+        <p>We often think that a cat's fur is what causes allergy flare-ups, but it is actually the proteins they produce. The most widely known protein is called Fel D 1, and it is in their dander and saliva. </p>
+       
+<br>
 
-```markdown
-Syntax highlighted code block
+      <h3 style="text-align:center">What is a Hypoallergenic Cat?</h3>
+      <p>The word, "hypoallergenic" refers to something that is less likely to cause an allergic reaction than something else of a similar nature. When we talk about hypoallergenic cats, we are referring to certain breeds of cats that produce less of the Fel D 1 protein. While this certainly sounds like good news to those who suffer from cat allergies, keep in mind that these cats can still cause flare-ups. 
+       </p>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmarie092/mmarie092.mobi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      <h3 style="text-align:center">But I Still Want a Cat! What Can I Do?</h3>
+<p>Well, there are a lot of things you can do to reduce reactions and live happily with your feline friend. If you are still considering adopting a hyoallergenic cat, check out the <a href="catbreeds.html">list of hypoallergenic cat breeds</a> and various <a href="resources.html">resource</a> pages on keeping those sneezes and red eyes under control.</p>
+    
+    </main>
+    <footer>
+      <p>Copyright &copy; Markie Hottenroth, 2021</p>
+	<a href= "mailto: mhott@hypallergeniccats.com">mhott@hypallergeniccats.com</a>    
+    </footer>
+  </div>
+</body>
+</html>
